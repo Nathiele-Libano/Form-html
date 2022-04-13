@@ -1,0 +1,128 @@
+div {
+    border: 3px solid #8A1E36;
+    padding: 10px;
+    background-color: #FACCD0;
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    position: absolute;
+    font-weight: 600;
+    font-style: bold;
+    font-size: large;
+    top: -12px;
+    background-color: #FACCD0;
+    padding: 10 5px;
+    color: #120075;
+}
+
+.color {
+    color: #120075;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#Nome {
+    border: 2px solid #C73A57;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#email {
+    border: 2px solid #C73A57;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#idade {
+    border: 2px solid #C73A57;
+    width: 50px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#birth{
+    border: 2px solid #C73A57;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#account{
+    display: block;
+    margin-bottom: 1px;
+    color: #120075;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#redes{
+    margin-bottom: 20px;
+    display: inline-block;
+    border: 2px solid #C73A57;
+}
+
+#gender{
+    display: block;
+    margin-bottom: 1px;
+    color: #120075;
+    font-weight: bold;
+    font-size: medium;
+   
+}
+
+#sexo{
+    border: 2px solid #C73A57;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#color{
+    display: block;
+    margin-bottom: 1px;
+    color: #120075;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#cor{
+    border: 2px solid #C73A57;
+    display:block;
+    margin-bottom: 10px;
+}
+
+#biografia{
+    border: 2px solid #C73A57;
+    display:block;
+    margin-bottom: 10px;
+}
+
+#foto{
+    display:block;
+    margin-bottom: 10px;
+}
+
+#telefone{
+    border: 2px solid #C73A57;
+    display:block;
+    margin-bottom: 10px;
+}
+
+#link{
+    border: 2px solid #C73A57;
+    display:block;
+    margin-bottom: 10px;
+}
+
+#senha{
+    border: 2px solid #C73A57;
+    display:block;
+    margin-bottom: 25px;
+}
+.button:hover{
+    color: #8A1E36;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+    border-color: #120075;
+    }
